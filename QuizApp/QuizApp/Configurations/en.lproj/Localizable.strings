@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  QuizApp
+
+  Created by Pallavi Ashim on 8/5/22.
+  
+*/
+
+"App_Name" = "FinLitEDU";
+"Take_Test" = "Test your knowledge";
+"Done" = "Done";
+"Start_Your_Journey" = "Start Your Journey";
+"Congrats" = "Congrats";
+"Congrats_description" = "You have successfully completed the topic. However you can come back and attend the quiz whenever you need .";
+"That_right" = "That's the right answer";
+"Oops_wrong" = "Oops. Wrong! Answer is";
+"Cancel" = "Cancel";
+"Save" = "Save";
+"English" = "English";
+"Hindi" = "Hindi";
+"Spanish" = "Spanish";
+"Marathi" = "Marathi";
+"Language" = "Language";
+"Tutorial_content" = "Learn It Quiz It Master It";
+"Version" = "Version";
+"Acknowledgements" = "Acknowledgements";

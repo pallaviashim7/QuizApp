@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  QuizApp
+
+  Created by Pallavi Ashim on 8/5/22.
+  
+*/
+
+"App_Name" = "FinLitEDU";
+"Take_Test" = "चाचणी घ्या";
+"Done" = "झाले";
+"Start_Your_Journey" = "Start Your Journey";
+"Congrats" = "अभिनंदन";
+"Congrats_description" = "तुम्ही विषय यशस्वीरित्या पूर्ण केला आहे. तथापि, आपण परत येऊ शकता आणि आपल्याला आवश्यक असेल तेव्हा प्रश्नमंजुषास उपस्थित राहू शकता.";
+"That_right" = "तेच योग्य उत्तर आहे";
+"Oops_wrong" = "अरेरे. चुकीचे! उत्तर आहे";
+"Cancel" = "रद्द करा";
+"Save" = "जतन करा";
+"English" = "इंग्रजी";
+"Hindi" = "हिंदी";
+"Spanish" = "स्पॅनिश";
+"Marathi" = "मराठी";
+"Language" = "इंग्रजी";
+"Tutorial_content" = "ते शिका क्विझ करा ते मास्टर";
+"Version" = "आवृत्ती";
+"Acknowledgements" = "पावती";
+
+

@@ -1,0 +1,267 @@
+{
+  "topics": [
+    {
+      "topicId": "1",
+      "topicName": "Banking Institutions",
+      "topicDescription": "Learn about Banks and Credit unions",
+      "subtopics": [
+        {
+          "subtopicId": "11",
+          "subtopicName": "Banks and Credit Unions",
+          "subtopicDescription": "Learn what are banks and difference between credit union and a bank",
+          "videoURL": "https://www.youtube.com/watch?v=hGNpdUImkeU",
+          "quiz": [
+            {
+              "quizId": "111",
+              "question": "Which statement is false?",
+              "correctAnswerId": "3",
+              "answerList": [
+                {
+                  "answerId": "1",
+                  "answerText": "Banks are regulated by governments"
+                },
+                {
+                  "answerId": "2",
+                  "answerText": "Credit unions are only open to its members whereas banks are generally open to everyone"
+                },
+                {
+                  "answerId": "3",
+                  "answerText": "Members own the credit union and profit from its operations"
+                }
+              ]
+            },
+            {
+              "quizId": "112",
+              "question": "How can bank be useful to you?",
+              "correctAnswerId": "2",
+              "answerList": [
+                {
+                  "answerId": "1",
+                  "answerText": "Bank can guide you in your career choices"
+                },
+                {
+                  "answerId": "2",
+                  "answerText": "Bank can help you save money"
+                },
+                {
+                  "answerId": "3",
+                  "answerText": "Bank can help you spend money"
+                }
+              ]
+            },
+            {
+              "quizId": "113",
+              "question": "What is the main difference between credit unions and banks?",
+              "correctAnswerId": "1",
+              "answerList": [
+                {
+                  "answerId": "1",
+                  "answerText": "Credit unions are not for profit; banks are for profit"
+                },
+                {
+                  "answerId": "2",
+                  "answerText": "Credit unions are in smaller towns; banks are in larger cities"
+                },
+                {
+                  "answerId": "3",
+                  "answerText": "Credit unions have no ATMs; banks have ATMs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subtopicId": "12",
+          "subtopicName": "Types of Accounts",
+          "subtopicDescription": "Learn about different types of accounts at financial institutions",
+          "videoURL": "https://www.youtube.com/watch?v=hGNpdUImkeU",
+          "quiz": [
+            {
+              "quizId": "121",
+              "question": "People can make deposits and withdrawals of money from both savings and checking accounts. Which statement is true?",
+              "correctAnswerId": "2",
+              "answerList": [
+                {
+                  "answerId": "1",
+                  "answerText": "Checking and savings allow you to perform deposits and withdrawls without any restrictions"
+                },
+                {
+                  "answerId": "2",
+                  "answerText": "Both type of accounts allows deposits and withdrawls but savings account restricts number of transactions in a month"
+                },
+                {
+                  "answerId": "3",
+                  "answerText": "Checking account is used for withdrawals and savings account is used for deposits"
+                }
+              ]
+            },
+            {
+              "quizId": "122",
+              "question": "Your friend says he saves money in cookie jar at home because he is afraid that banks will spend all money wont be able to give him the money when he needs it. Which of the following reply will you give to your friend?",
+              "correctAnswerId": "2",
+              "answerList": [
+                {
+                  "answerId": "1",
+                  "answerText": "You agree with your friend and promise to gift him more cookie jars"
+                },
+                {
+                  "answerId": "2",
+                  "answerText": "You tell your friend that bank accounts are insured by government. If the banks fail, government will give his money back"
+                },
+                {
+                  "answerId": "3",
+                  "answerText": "You tell your friend that it is best for him to open a money market account which is safe"
+                }
+              ]
+            },
+            {
+              "quizId": "123",
+              "question": "Imagine that you are running a pool cleaning business. Which accounts will you open and what will you use it for?",
+              "correctAnswerId": "3",
+              "answerList": [
+                {
+                  "answerId": "1",
+                  "answerText": "Open a money market account and put all my money in it. It gives higher interest rate and give me ability to transact"
+                },
+                {
+                  "answerId": "2",
+                  "answerText": "Open a savings account and save money in it since it gives higher interest rate"
+                },
+                {
+                  "answerId": "3",
+                  "answerText": "Open a checking account and a savings account. I will put some money in checking account so I can receive money from my clients and pay employees and vendors. I will stash away some money in savings account for a rainy day."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": "2",
+      "topicName": "Concepts of Interest",
+      "topicDescription": "Start to understand what is meant by Interest",
+      "subtopics": [
+        {
+          "subtopicId": "21",
+          "subtopicName": "Interest and Simple Interest",
+          "subtopicDescription": "Learn about simple interest",
+          "videoURL": "https://www.youtube.com/watch?v=6Vym_fnIFrY",
+          "quiz": [
+            {
+              "quizId": "211",
+              "question": "Which of the following is not a form of borrowing money from bank",
+              "correctAnswerId": "3",
+              "answerList": [
+                {
+                  "answerId": "1",
+                  "answerText": "Use of credit card"
+                },
+                {
+                  "answerId": "2",
+                  "answerText": "Auto loan"
+                },
+                {
+                  "answerId": "3",
+                  "answerText": "Deposit money in an account"
+                }
+              ]
+            },
+            {
+              "quizId": "212",
+              "question": "If I borrow $1000 and simple interest is 5%, after 1 year how much do I pay back?",
+              "correctAnswerId": "2",
+              "answerList": [
+                {
+                  "answerId": "1",
+                  "answerText": "$50"
+                },
+                {
+                  "answerId": "2",
+                  "answerText": "$1050"
+                },
+                {
+                  "answerId": "3",
+                  "answerText": "$1000"
+                }
+              ]
+            },
+            {
+              "quizId": "213",
+              "question": "What is the correct formula to calculate simple interest?",
+              "correctAnswerId": "1",
+              "answerList": [
+                {
+                  "answerId": "1",
+                  "answerText": "I = P*r*t"
+                },
+                {
+                  "answerId": "2",
+                  "answerText": "I = P + I"
+                },
+                {
+                  "answerId": "3",
+                  "answerText": "I = (p *r) / t"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subtopicId": "22",
+          "subtopicName": "Compound Interest",
+          "subtopicDescription": "Learn about special type of interest called compound interest",
+          "videoURL": "https://www.youtube.com/watch?v=2OKCl6zsPWE",
+          "quiz": [
+            {
+              "quizId": "221",
+              "question": "How can bank be useful to you?",
+              "correctAnswerId": "2",
+              "answerList": [
+                {
+                  "answerId": "1",
+                  "answerText": "Bank can guide you in your career choices"
+                },
+                {
+                  "answerId": "2",
+                  "answerText": "Bank can help you save money"
+                },
+                {
+                  "answerId": "3",
+                  "answerText": "Bank can help you spend money"
+                },
+                {
+                  "answerId": "4",
+                  "answerText": "Banks can help improve your grades"
+                }
+              ]
+            },
+            {
+              "quizId": "222",
+              "question": "What is the main difference between credit unions and a banks?",
+              "correctAnswerId": "2",
+              "answerList": [
+                {
+                  "answerId": "1",
+                  "answerText": "Credit Unions have funny names; banks have serious names"
+                },
+                {
+                  "answerId": "2",
+                  "answerText": "Credit unions are in smaller towns; banks are in large cities"
+                },
+                {
+                  "answerId": "3",
+                  "answerText": "Credit unions have no ATMs; banks have ATMs"
+                },
+                {
+                  "answerId": "4",
+                  "answerText": "Credit unions are not for profit; banks are for profit"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
